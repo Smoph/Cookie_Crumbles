@@ -2,7 +2,7 @@
 
 Modified Implementation of a Milk-Delivery System
 
-Requirements (as specified by the Customer):
+Requirements (as specified by the "Customer"):
 
 A system is to be produced that holds details of deliveries of
 different brands of milk in a small town. As well as recording which
@@ -17,4 +17,4 @@ information showing how many liters of each milk type were sold
 each day of the week. Bills for each customer are printed at the end
 of each month and left with the first delivery of the following month.
 The system also produces appropriate error messages, confirmations,
-and warnings
+and warnings.
